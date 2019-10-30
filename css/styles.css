@@ -42,3 +42,8 @@ section.green{
 section.blue{
 	color:blue;
 }
+}
+input {
+  display: flex;
+  float: left;
+}
